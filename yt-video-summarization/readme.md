@@ -43,6 +43,10 @@ streamlit run main.py
 
 This will start a Streamlit web application where you can enter a YouTube video URL to summarize.
 
+## Demo 
+
+![Demo Image](yt-video-summarization/Example.png)
+
 ## Features
 
 - Download YouTube videos
