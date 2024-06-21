@@ -45,7 +45,7 @@ This will start a Streamlit web application where you can enter a YouTube video 
 
 ## Demo 
 
-![Demo Image](yt-video-summarization/Example.png)
+![Demo Image](Example.png)
 
 ## Features
 
