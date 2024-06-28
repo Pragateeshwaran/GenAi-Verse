@@ -54,7 +54,6 @@ This will start a Streamlit web application where you can input Python code to a
 
 ## Dependencies
 
-- Python 3.8+
 - Streamlit
 - NumPy
 - Matplotlib
